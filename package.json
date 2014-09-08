@@ -1,0 +1,24 @@
+{
+  "name": "json-escape",
+  "version": "0.0.1",
+  "description": "Function escaping string to JSON-safe form.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erykpiast/json-escape.git"
+  },
+  "keywords": [
+    "json",
+    "escape",
+    "string"
+  ],
+  "author": "Eryk Napierala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erykpiast/json-escape/issues"
+  },
+  "homepage": "https://github.com/erykpiast/json-escape"
+}
