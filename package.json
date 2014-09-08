@@ -15,7 +15,7 @@
     "escape",
     "string"
   ],
-  "author": "Eryk Napierala",
+  "author": "Eryk Napierała <eryk.piast@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/erykpiast/json-escape/issues"
